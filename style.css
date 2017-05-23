@@ -1,4 +1,5 @@
 div {
-	color: blue;
-	width: 100px;
+	color: green;
+	width: 200px;
+	font-weight: bold;
 }
